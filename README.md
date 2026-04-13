@@ -4,7 +4,7 @@
 
 This project explores **income inequality across 195 countries** from 2010 to 2021. The goal is to uncover global and regional patterns in income disparity using structured data analysis and visualization tools.
 
-Data was sourced from the [UNDP Human Development Reports](https://hdr.undp.org/) dataset titled *"Inequality in Income Across the Globe"*.
+Data was sourced from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-income-across-the-globe) dataset titled *"Inequality in Income Across the Globe"*.
 
 > **Metric definition:** The *Inequality in Income* value used here is based on the **Atkinson index** — it measures the percentage loss in human development attributable to inequality in income distribution (UNDP methodology). Higher values = greater inequality.
 
@@ -117,4 +117,4 @@ The transformed Excel file was connected to **Tableau** to build interactive das
 
 ## 📜 License
 
-This project is for educational and analytical purposes. Dataset credit goes to the [UNDP Human Development Reports](https://hdr.undp.org/).
+This project is for educational and analytical purposes. Dataset credit goes to the [Sourav Banerjee](https://www.kaggle.com/iamsouravbanerjee).

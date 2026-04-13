@@ -1,7 +1,8 @@
 # 🌍 Income Inequality Across the Globe — Data Analysis Project
 
-## Overview
+![alt text](image.png)
 
+## Overview
 This project explores **income inequality across 195 countries** from 2010 to 2021. The goal is to uncover global and regional patterns in income disparity using structured data analysis and visualization tools.
 
 Data was sourced from [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/inequality-in-income-across-the-globe) dataset titled *"Inequality in Income Across the Globe"*.
